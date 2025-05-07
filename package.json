@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JaredLarios/cse210-Team-Project/issues"
   },
-  "homepage": "https://github.com/JaredLarios/cse210-Team-Project#readme"
+  "homepage": "https://github.com/JaredLarios/cse210-Team-Project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
